@@ -1,1 +1,7 @@
 nbsphinx
+recommonmark
+sphinx
+sphinx-rtd-theme
+myst-parser
+nbsphinx
+ipykernel
