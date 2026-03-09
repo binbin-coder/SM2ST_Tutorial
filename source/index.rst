@@ -16,6 +16,7 @@ Welcome to SM2ST's documentation!
    rectification41t2_SM2ST_test
    rectification31t2_SM2ST_test
    rectification31t2_STAGE_test
+   SM2ST_Y7_T
    manual_rectification
    Multi_omics_Cluster
    Muliti_omics_SpatialGlue_tutorial_smst
