@@ -19,7 +19,7 @@ Welcome to SM2ST's documentation!
    SM2ST_Y7_T
    manual_rectification
    Multi_omics_Cluster
-   Muliti_omics_SpatialGlue_tutorial_smst
+   Multi_omics_SpatialGlue_tutorial_smst
    super_Resolution_STMGraph_pyG1_30rex
 .. image:: ../Images/fig1.png
    :width: 600
