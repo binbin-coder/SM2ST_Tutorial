@@ -13,6 +13,7 @@ Welcome to SM2ST's documentation!
    Normal_Resolution_SM2ST_masked_pearsonr_30o_rec
    Normal_Resolution_SM2ST_masked_pearsonr_30o_rec_STAGE
    Normal_Resolution_SM2ST_masked_pearsonr_30_rec_mask_03
+   Alignment_085-B1
    rectification41t2_SM2ST_test
    rectification31t2_SM2ST_test
    rectification31t2_STAGE_test
