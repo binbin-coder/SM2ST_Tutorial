@@ -22,6 +22,7 @@ Welcome to SM2ST's documentation!
    Multi_omics_Cluster
    Multi_omics_SpatialGlue_tutorial_smst
    super_Resolution_STMGraph_pyG1_30rex
+   super_Resolution_STMGraph_pyG1_15orex_down_up
 .. image:: ../Images/fig1.png
    :width: 600
 
